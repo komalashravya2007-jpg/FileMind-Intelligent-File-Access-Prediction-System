@@ -1,0 +1,3 @@
+notes.txt -> python.py -> output.csv
+notes.txt -> python.py -> report.pdf
+image.png -> report.pdf -> notes.txt
